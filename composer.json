@@ -1,0 +1,26 @@
+{
+    "name": "wahyupujiono/rajaongkir-laravel",
+    "description": "Raja Ongkir API Laravel 5",
+    "homepage":"https://github.com/wahyupujiono/rajaongkir-laravel",
+    "keywords": [
+        "rajaongkir", "application programming interface", "laravel"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Wahyu Pujiono",
+            "email": "pujiono_wahyu@yahoo.co.id",
+            "homepage":"http://wahyupujiono.com",
+            "role":"Developer"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"wahyupujiono\\RajaOngkirLaravel\\": "src/"
+    	}
+    },
+    "require": {
+    	"illuminate/support": "~5"
+    }
+}
