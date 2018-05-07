@@ -6,13 +6,13 @@ API ini digunakan ( baru tersedia ) untuk type akun starter
 
 Download package dengan composer
 ```
-composer require wahyupujiono/RajaOngkirLaravel
+composer require wahyupujiono/rajaongkir-laravel
 ```
 atau
 ```
 {
 	"require": {
-		"wahyupujiono/RajaOngkirLaravel" : "dev-master"
+		"wahyupujiono/rajaongkir-laravel" : "dev-master"
 	}
 }
 ```
